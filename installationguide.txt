@@ -1,0 +1,18 @@
+Notes for installation
+
+MacOSX
+1. MacOSX use brew to install python3
+2. This will install pip3 which you should use to install
+3. numpy, scipy, scikit-learn, django, jupyter
+
+Ubuntu
+Same as above but use apt-get package manager
+
+hoping to make a bash script
+
+Windows
+No idea
+
+Also, Hoping to make a VM package, or container
+Also also, Hoping to just host a jupyter notebook somewhere. 
+Also x3, make a python LMS loosely based on Moodle, then incorporate coding environment and jupyter notebooks and auto grading. 
